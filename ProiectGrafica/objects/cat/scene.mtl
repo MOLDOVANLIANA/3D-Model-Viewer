@@ -1,0 +1,293 @@
+# Blender MTL File: 'scene.blend'
+# Material Count: 26
+
+newmtl Default_Material
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Door_M
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 495.062948
+Ka 1.000000 1.000000 1.000000
+Kd 0.010022 0.010022 0.010022
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd crystal_deer\\textures\\defaultMat.001_normal.png
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd gr.jpg
+
+newmtl Material.003
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.329688 0.049001 0.070114
+Ks 0.500000 0.500000 0.500000
+Ke 0.177476 0.057821 0.057821
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd crystal_deer\\textures\\material_baseColor.png
+
+newmtl Material_413.001
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stylised_sky_player_home_dioroma\\textures\\Material_413_baseColor.jpg
+
+newmtl Material_650.001
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stylised_sky_player_home_dioroma\\textures\\Material_650_baseColor.png
+map_d stylised_sky_player_home_dioroma\\textures\\Material_650_baseColor.png
+
+newmtl Plaster_M
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd fairy_tower\\textures\\Plaster_M_diffuse.jpeg
+
+newmtl PoplarTree_Mat
+Ns 0.812811
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd poplar_tree\\images (1).jpg
+
+newmtl PoplarTree_Mat.001
+Ns 0.812811
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd poplar_tree\\images (1).jpg
+
+newmtl PoplarTree_Mat.002
+Ns 0.812811
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd poplar_tree\\images.jpg
+
+newmtl PoplarTree_Mat.003
+Ns 0.812811
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd poplar_tree\\images (1).jpg
+
+newmtl Roof_M
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd fairy_tower\\textures\\Roof_M_diffuse.jpeg
+
+newmtl Wood_M
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd fairy_tower\\textures\\Roof_M_diffuse.jpeg
+
+newmtl bark.001
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stylised_sky_player_home_dioroma\\textures\\bark_baseColor.jpg
+
+newmtl defaultMat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.396921 crystal_deer\\textures\\defaultMat_normal.png
+map_Kd crystal_deer\\textures\\defaultMat_baseColor.png
+
+newmtl defaultMat.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump crystal_deer\\textures\\defaultMat.001_normal.png
+map_Kd crystal_deer\\textures\\defaultMat.001_baseColor.png
+
+newmtl door__barrels.001
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stylised_sky_player_home_dioroma\\textures\\door__barrels_baseColor.jpg
+
+newmtl grass.001
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stylised_sky_player_home_dioroma\\textures\\grass_baseColor.jpg
+
+newmtl material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd crystal_deer\\textures\\material_baseColor.png
+map_d crystal_deer\\textures\\material_baseColor.png
+
+newmtl material_0
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump cat_creature\\textures\\material_0_normal.png
+map_Kd cat_creature\\textures\\material_0_baseColor.png
+map_Ke cat_creature\\textures\\material_0_emissive.png
+
+newmtl op_branches.001
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stylised_sky_player_home_dioroma\\textures\\op_branches_baseColor.png
+map_d stylised_sky_player_home_dioroma\\textures\\op_branches_baseColor.png
+
+newmtl planks.001
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stylised_sky_player_home_dioroma\\textures\\planks_baseColor.jpg
+
+newmtl roof.001
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stylised_sky_player_home_dioroma\\textures\\roof_baseColor.jpg
+
+newmtl wall.001
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stylised_sky_player_home_dioroma\\textures\\wall_baseColor.jpg
+
+newmtl wooden_skel_no_op.001
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stylised_sky_player_home_dioroma\\textures\\wooden_skel_no_op_baseColor.jpg

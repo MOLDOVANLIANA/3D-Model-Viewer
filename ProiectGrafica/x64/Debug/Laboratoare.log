@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(144,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(145,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(149,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(150,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(152,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(153,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(275,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(416,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(418,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Laboratoare.vcxproj -> D:\Fac Liana\Graphics Project\Laboratoare\x64\Debug\Laboratoare.exe

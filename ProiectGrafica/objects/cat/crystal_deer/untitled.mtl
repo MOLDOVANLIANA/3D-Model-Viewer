@@ -1,0 +1,59 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 5
+
+newmtl Material.001
+Ns 495.062948
+Ka 1.000000 1.000000 1.000000
+Kd 0.010022 0.010022 0.010022
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.329688 0.049001 0.070114
+Ks 0.500000 0.500000 0.500000
+Ke 0.177476 0.057821 0.057821
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures\\material_baseColor.png
+
+newmtl defaultMat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.396921 textures\\defaultMat_normal.png
+map_Kd textures\\defaultMat_baseColor.png
+
+newmtl defaultMat.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\defaultMat.001_normal.png
+map_Kd textures\\defaultMat.001_baseColor.png
+
+newmtl material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures\\material_baseColor.png
+map_d textures\\material_baseColor.png

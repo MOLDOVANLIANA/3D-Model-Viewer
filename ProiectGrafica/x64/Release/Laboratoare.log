@@ -1,0 +1,29 @@
+﻿  main.cpp
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(144,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(145,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(149,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(150,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(152,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(153,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(275,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Fac Liana\Graphics Project\Laboratoare\Laboratoare\main.cpp(416,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+x64\Release\stb_image.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+  1 of 1700 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+LINK : warning LNK4286: symbol '__glewGenBuffers' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewGenVertexArrays' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewActiveTexture' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewBufferData' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewGetUniformLocation' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewUniform1i' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewBindBuffer' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewVertexAttribPointer' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewBindVertexArray' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewEnableVertexAttribArray' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewDeleteBuffers' defined in 'libglew32.lib(glew.obj)' is imported by 'Model3D.obj'
+LINK : warning LNK4286: symbol '__glewGenerateMipmap' defined in 'libglew32.lib(glew.obj)' is imported by 'Model3D.obj'
+LINK : warning LNK4286: symbol '__glewDeleteVertexArrays' defined in 'libglew32.lib(glew.obj)' is imported by 'Model3D.obj'
+  Laboratoare.vcxproj -> D:\Fac Liana\Graphics Project\Laboratoare\x64\Release\Laboratoare.exe

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Poplar Tree
+* source:	https://sketchfab.com/3d-models/poplar-tree-feb243fe0f944e94b98ab4676ecf7576
+* author:	neutralize (https://sketchfab.com/neutralize)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Poplar Tree" (https://sketchfab.com/3d-models/poplar-tree-feb243fe0f944e94b98ab4676ecf7576) by neutralize (https://sketchfab.com/neutralize) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
